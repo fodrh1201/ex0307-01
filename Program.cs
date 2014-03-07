@@ -7,6 +7,7 @@ namespace exercise030701
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("hihihihihihi");
+			Console.WriteLine ("sjflsejflesj");
 		}
 	}
 }
